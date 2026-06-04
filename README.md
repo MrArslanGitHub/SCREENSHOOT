@@ -1,3 +1,3 @@
-<img width="1440" height="625" alt="image" src="https://github.com/user-attachments/assets/49604899-671c-4a1a-a6c5-11d8d77a853b" />
-<img width="240" height="240" alt="unnamed" src="https://github.com/user-attachments/assets/3fc31de9-edcc-4b23-87a3-fb1d68e16ca3" />
-<img width="1417" height="860" alt="EGADET " src="https://github.com/user-attachments/assets/a097e35b-752d-4305-b1b5-b2c935044415" />
+<img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/2b08df26-fc03-43af-baa4-d0bc76faebd5" />
+<img width="647" height="209" alt="image" src="https://github.com/user-attachments/assets/3f7c8dfc-2286-44f7-a99e-edc8301c2e4b" />
+<img width="960" height="953" alt="image" src="https://github.com/user-attachments/assets/c685be20-53f0-4edf-adde-6b7bb6050c45" />
