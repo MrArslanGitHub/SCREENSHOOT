@@ -1,1 +1,1 @@
-<img width="1308" height="499" alt="image" src="https://github.com/user-attachments/assets/539a6be5-af2a-4c2b-9865-e3bcab40319e" />
+<img width="1042" height="737" alt="punjab_domicel_card" src="https://github.com/user-attachments/assets/38393360-9f1a-4836-acf9-02720ba037d7" />
