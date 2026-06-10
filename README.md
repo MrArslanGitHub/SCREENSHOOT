@@ -1,3 +1,1 @@
-<img width="856" height="521" alt="isb_front" src="https://github.com/user-attachments/assets/ede54533-ca2c-430a-affd-074392bdbac9" />
-<img width="851" height="522" alt="isb_back" src="https://github.com/user-attachments/assets/f9c75668-a832-4174-85b1-32a2a01a4355" />
-
+<img width="4560" height="1377" alt="ISB_Vehicle_Card" src="https://github.com/user-attachments/assets/824e883a-12e5-4000-90a3-e197fe9d78e9" />
